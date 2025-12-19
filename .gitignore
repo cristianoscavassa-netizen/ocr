@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+.env
+
+# images outputs
+out_images/
+
+# csv results
+*.csv
+
+# editor
+.vscode/
